@@ -1,1 +1,1 @@
-Changing directory to the previous one
+Listing all files in long format
