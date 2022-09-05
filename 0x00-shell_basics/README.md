@@ -1,1 +1,1 @@
-Print file type
+printing symbolic link
