@@ -1,1 +1,1 @@
-Listing all files in long format
+Print file type
